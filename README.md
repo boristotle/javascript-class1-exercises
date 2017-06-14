@@ -45,6 +45,3 @@ Q-CHALLENGE. Given the following array ['red', 'yellow', 'green', 'blue']; Resea
 
 
 Q-CHALLENGE:  Research Javascript array methods and add the color orange to the above color array.
-
-
-Q-CHALLENGE. Given the following array ['red', 'yellow', 'green', 'blue']; Research Javascript array methods and use the appropriate method to move red from the front of the array to the end of the array.
