@@ -1,6 +1,8 @@
 # javascript-class1-exercises
 
 
+
+
 Q.  What is the difference between var, const, and let?
 
 Q.  Define three separate variables using each of the variable declaration terms in the above question.
@@ -28,6 +30,9 @@ Q.  Define a variable and assign it to a value that has the appropriate datatype
 
     e.  Null
 
+
+
+For the Q-CHALLENGE questions below you can create a new file to work on these questions.  Remember to name the file something with .js at the end.  Then test your answers on that file by running your code in the command line.  To run your code in the command line type: node yourFileNameHERE.js   Use console.log in your file to log out anything you need that will help you. 
 
 
 Q-CHALLENGE.  Create a variable and assign it a value of 'The quick brown fox jumped over the lazy dog'.  Research Javascript string methods and use the appropriate method to determine at what index the word 'fox' is in this sentence.
