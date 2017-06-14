@@ -9,9 +9,9 @@ Q.  Define three separate variables using each of the variable declaration terms
 
 Q.  Create an object describing an animal of your choice and assign it to a variable.
 
-Q.  Give the following expression what is the value of the variable my_number:
+Q.  Give the following expression what is the value of the variable myNumber:
 
-    let my_number;
+    let myNumber;
 
 
 Q.  Create 3 separate arrays and use the .length property on each array to determine which array is the longest.
