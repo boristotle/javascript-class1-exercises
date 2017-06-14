@@ -41,7 +41,7 @@ Q-CHALLENGE.  Create a variable and assign it a value of 'The quick brown fox ju
 Q-CHALLENGE.  Create a variable and assign it a value of 'The quick brown fox jumped over the lazy dog'.  Research Javascript string methods and use the appropriate method to split this sentence into an array where each word is an item in the array.
 
 
-Q-CHALLENGE. Given the following array ['red', 'yellow', 'green', 'blue']; Research Javascript array methods and use the appropriate method to move red from the front of the array to the end of the array.
+Q-CHALLENGE. Given the following array ['red', 'yellow', 'green', 'blue']; Research Javascript array methods and use the appropriate method to move red from the front of the array and add it to the end of the array.
 
 
 Q-CHALLENGE:  Research Javascript array methods and add the color orange to the above color array.
